@@ -1,0 +1,15 @@
+C:\Users\sokel\OneDrive - The University of Alabama\repos\mis221\mis-221-pa6-Bryan-Sokell\bin\Debug\net8.0\mis-221-pa6-Bryan-Sokell.exe
+C:\Users\sokel\OneDrive - The University of Alabama\repos\mis221\mis-221-pa6-Bryan-Sokell\bin\Debug\net8.0\mis-221-pa6-Bryan-Sokell.deps.json
+C:\Users\sokel\OneDrive - The University of Alabama\repos\mis221\mis-221-pa6-Bryan-Sokell\bin\Debug\net8.0\mis-221-pa6-Bryan-Sokell.runtimeconfig.json
+C:\Users\sokel\OneDrive - The University of Alabama\repos\mis221\mis-221-pa6-Bryan-Sokell\bin\Debug\net8.0\mis-221-pa6-Bryan-Sokell.dll
+C:\Users\sokel\OneDrive - The University of Alabama\repos\mis221\mis-221-pa6-Bryan-Sokell\bin\Debug\net8.0\mis-221-pa6-Bryan-Sokell.pdb
+C:\Users\sokel\OneDrive - The University of Alabama\repos\mis221\mis-221-pa6-Bryan-Sokell\obj\Debug\net8.0\mis-221-pa6-Bryan-Sokell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sokel\OneDrive - The University of Alabama\repos\mis221\mis-221-pa6-Bryan-Sokell\obj\Debug\net8.0\mis-221-pa6-Bryan-Sokell.AssemblyInfoInputs.cache
+C:\Users\sokel\OneDrive - The University of Alabama\repos\mis221\mis-221-pa6-Bryan-Sokell\obj\Debug\net8.0\mis-221-pa6-Bryan-Sokell.AssemblyInfo.cs
+C:\Users\sokel\OneDrive - The University of Alabama\repos\mis221\mis-221-pa6-Bryan-Sokell\obj\Debug\net8.0\mis-221-pa6-Bryan-Sokell.csproj.CoreCompileInputs.cache
+C:\Users\sokel\OneDrive - The University of Alabama\repos\mis221\mis-221-pa6-Bryan-Sokell\obj\Debug\net8.0\mis-221-pa6-Bryan-Sokell.sourcelink.json
+C:\Users\sokel\OneDrive - The University of Alabama\repos\mis221\mis-221-pa6-Bryan-Sokell\obj\Debug\net8.0\mis-221-pa6-Bryan-Sokell.dll
+C:\Users\sokel\OneDrive - The University of Alabama\repos\mis221\mis-221-pa6-Bryan-Sokell\obj\Debug\net8.0\refint\mis-221-pa6-Bryan-Sokell.dll
+C:\Users\sokel\OneDrive - The University of Alabama\repos\mis221\mis-221-pa6-Bryan-Sokell\obj\Debug\net8.0\mis-221-pa6-Bryan-Sokell.pdb
+C:\Users\sokel\OneDrive - The University of Alabama\repos\mis221\mis-221-pa6-Bryan-Sokell\obj\Debug\net8.0\mis-221-pa6-Bryan-Sokell.genruntimeconfig.cache
+C:\Users\sokel\OneDrive - The University of Alabama\repos\mis221\mis-221-pa6-Bryan-Sokell\obj\Debug\net8.0\ref\mis-221-pa6-Bryan-Sokell.dll
